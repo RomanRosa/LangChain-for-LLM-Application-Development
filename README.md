@@ -1,5 +1,7 @@
 # LangChain for LLM Application Development
 
+For more information, visit [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/).
+
 <p align="center">
   <img src="https://github.com/RomanRosa/LangChain-for-LLM-Application-Development/blob/main/LangChain%20for%20LLM%20Application%20Development.png" alt="LangChain-for-LLM-Application-Development">
 </p>
